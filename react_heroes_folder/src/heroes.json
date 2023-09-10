@@ -1,0 +1,46 @@
+{
+  "heroes": [
+    {
+      "name": "Superman",
+      "description": "The Man of Steel",
+      "age": 35,
+      "superpower": "Flight, super strength, heat vision",
+      "url": "/img/Action_Comics_Vol_1_1000_Textless.webp"
+    },
+    {
+      "name": "Spider-Man",
+      "description": "Friendly neighborhood superhero",
+      "age": 20,
+      "superpower": "Wall-crawling, spider-sense, web-slinging",
+      "url": "https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png"
+    },
+    {
+      "name": "Wonder Woman",
+      "description": "Amazonian princess and warrior",
+      "age": 500,
+      "superpower": "Super strength, lasso of truth, flight",
+      "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,q_60,w_645/4f0cbca220c1b3fde40247e60f432ca8.jpg"
+    },
+    {
+      "name": "Batman",
+      "description": "The Dark Knight",
+      "age": 40,
+      "superpower": "Intelligence, martial arts, gadgets",
+      "url": "https://cdn.vox-cdn.com/thumbor/IcD8loKIefZlINVp-pVIz_yUEdE=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23307403/IMG_3722.jpeg"
+    },
+    {
+      "name": "Captain America",
+      "description": "Super soldier and leader of the Avengers",
+      "age": 100,
+      "superpower": "Enhanced strength, agility, shield",
+      "url": "https://images.comicbooktreasury.com/wp-content/uploads/2022/08/Captain-America-Steve-Rogers-Reading-Order-705x470.jpg"
+    },
+    {
+      "name": "Iron Man",
+      "description": "Genius billionaire playboy philanthropist",
+      "age": 45,
+      "superpower": "Powered armor suit, intelligence",
+      "url": "https://images.comicbooktreasury.com/wp-content/uploads/2022/05/Iron-Man-Tony-Stark-Reading-Order-Marvel.jpg"
+    }
+  ]
+}
